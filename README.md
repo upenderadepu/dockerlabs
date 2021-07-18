@@ -12,7 +12,7 @@ Docker Labs brings you tutorials that help you get hands-on experience using Doc
 
 #  Getting Started in 3 Simple Steps
 
-- Join 4500+ Collabnix Labs Contributors in 2 mins via [DockerLabs Slack Channel](https://launchpass.com/collabnix)
+- Join 5200+ Collabnix Labs Contributors in 2 mins via [DockerLabs Slack Channel](https://launchpass.com/collabnix)
 
 - Fork, Contribute & Share via [DockerLabs GITHUB Repository](https://github.com/collabnix/dockerlabs)
 
@@ -51,9 +51,6 @@ Docker Labs brings you tutorials that help you get hands-on experience using Doc
 ## Web Framework
 
 - [Docker + WordPress + Docker Swarm](./solution/wordpress/README.md)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CgK1fqyzFLk/0.jpg)](https://www.youtube.com/watch?v=CgK1fqyzFLk)
-
 - [Docker + Django + PostgreSQL](./solution/django-postgres/readme.md)
 - [Docker + Gomodule](./beginners/httpserver_go_module_and_docker.md)
 
@@ -64,8 +61,6 @@ Docker Labs brings you tutorials that help you get hands-on experience using Doc
 ## Logging
 
 - [Docker + Elasticsearch + Logstash + Kibana + Docker Swarm](./play-with-docker/ELK/README.md)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CoC_tz9ab7A/0.jpg)](https://www.youtube.com/watch?v=CoC_tz9ab7A)
 
 
 ## Testing Tools
